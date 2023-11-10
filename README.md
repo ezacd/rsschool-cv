@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ezacd.github.io/rsschool-cv/cv
