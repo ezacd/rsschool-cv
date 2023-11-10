@@ -1,7 +1,7 @@
 # Yaroslav Pleskach
 ---
 ## Contact Information: 
-- Phone number: +380995358717
+- Phone number: +380996358717
 - E-mail: yaroslav.pleskach123@gmail.com
 ## Skills:
 - JavaScript
