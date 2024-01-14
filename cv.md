@@ -47,3 +47,5 @@ module.exports = GuessingGame;
 - English (B1)
 - Russian (C2)
 - Ukrainian (C2)
+
+## mac test
